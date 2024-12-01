@@ -4,20 +4,23 @@
     <title>Blog on Blowfish</title>
     <link>/tags/blog/</link>
     <description>Recent content in Blog on Blowfish</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© 2024 </copyright>
-    <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>blogtitle</title>
+      <title>Test</title>
+      <link>/posts/test/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/test/</guid>
+      <description>&lt;p&gt;TEstsdiuasdfhiujsdfhiuhasdhfiadgfhuasdgfuk!&lt;img alt=&#34;Image Description&#34; src=&#34;/images/01236edfc4587e07938ace0c8d2c2dbd9a0da1ac39.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Was ist mit der Welt Los</title>
       <link>/posts/was-ist-mit-der-welt-los/</link>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      
       <guid>/posts/was-ist-mit-der-welt-los/</guid>
-      <description></description>
-      
+      <description>&lt;p&gt;Ich habe Letztens Dieses Bild auf Reddit gefunden und habe es als sehr Passend für die Momentanigen zeit empfunden&lt;/p&gt;&#xA;&lt;p&gt;!&lt;img alt=&#34;Image Description&#34; src=&#34;/images/IMG_2948%201-1.png&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
