@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mein Blick auf alles</title>
-    <link>https://blog.dreamlifeproduction.de/</link>
-    <description>Recent content on Mein Blick auf alles</description>
+    <title>Blowfish</title>
+    <link>/</link>
+    <description>Recent content on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.dreamlifeproduction.de/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>blogtitle</title>
-      <link>https://blog.dreamlifeproduction.de/posts/was-ist-mit-der-welt-los/</link>
+      <link>/posts/was-ist-mit-der-welt-los/</link>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.dreamlifeproduction.de/posts/was-ist-mit-der-welt-los/</guid>
-      <description>&lt;p&gt;Ich habe Letztens Dieses Bild auf Reddit gefunden und habe es als sehr Passend für die Momentanigen zeit empfunden&lt;/p&gt;
-&lt;p&gt;!&lt;img alt=&#34;Image Description&#34; src=&#34;https://blog.dreamlifeproduction.de/images/IMG_2948%201-1.png&#34;&gt;&lt;/p&gt;</description>
-      <content>&lt;p&gt;Ich habe Letztens Dieses Bild auf Reddit gefunden und habe es als sehr Passend für die Momentanigen zeit empfunden&lt;/p&gt;
-&lt;p&gt;!&lt;img alt=&#34;Image Description&#34; src=&#34;https://blog.dreamlifeproduction.de/images/IMG_2948%201-1.png&#34;&gt;&lt;/p&gt;
-</content>
+      <guid>/posts/was-ist-mit-der-welt-los/</guid>
+      <description></description>
+      
     </item>
     
   </channel>
