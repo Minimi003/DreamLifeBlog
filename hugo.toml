@@ -1,14 +1,17 @@
-baseurl = "https://blog.dreamlifeproduction.de/"
-languageCode = "de"
+baseurl = "/"
+languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
-theme = "terminal"
+theme = "re-terminal"
 paginate = 5
 
 [params]
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
   contentTypeName = "posts"
+
+  # ["orange", "blue", "red", "green", "pink"]
+  themeColor = "orange"
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 2
@@ -20,7 +23,7 @@ paginate = 5
   fullWidthTheme = false
 
   # center theme with default width
-  centerTheme = true
+  centerTheme = false
 
   # if your resource directory contains an image called `cover.(jpg|png|webp)`,
   # then the file will be used as a cover automatically.
@@ -29,21 +32,36 @@ paginate = 5
 
   # set post to show the last updated
   # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
-  showLastUpdated = true
+  showLastUpdated = false
+
+  # set a custom favicon (default is a `themeColor` square)
+  # favicon = "favicon.ico"
 
   # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
   # updatedDatePrefix = "Updated"
 
+  # set all headings to their default size (depending on browser settings)
+  # oneHeadingSize = true # default
+
   # whether to show a page's estimated reading time
-  # readingTime = true # default
+  # readingTime = false # default
 
   # whether to show a table of contents
   # can be overridden in a page's front-matter
-  # Toc = true # default
+  # Toc = false # default
 
   # set title for the table of contents
   # can be overridden in a page's front-matter
   # TocTitle = "Table of Contents" # default
+
+
+  # you can set a banner on the top of the page with a call to action
+  # defaults: dismissible = false; URL is optional
+  # [params.banner]
+  # dismissible = false
+  # text = "Check it out on GitHub"
+  # url = "https://github.com/mirus-ua/hugo-theme-re-terminal"
+
 
 
 [params.twitter]
@@ -54,35 +72,33 @@ paginate = 5
   site = ""
 
 [languages]
-  [languages.en]
+  [languages.en.params]
     languageName = "English"
-    title = "Minimi003's Blog"
+    title = "re-Terminal"
+    subtitle = "A simple, retro theme for Hugo"
+    owner = ""
+    keywords = ""
+    copyright = ""
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    missingContentMessage = "Page not found..."
+    missingBackButtonLabel = "Back to home page"
+    minuteReadingTime = "min read"
+    words = "words"
 
-    [languages.en.params]
-      subtitle = "Die Welt und ich ein Blog von Minimi003"
-      owner = "Minimi003"
-      keywords = ""
-      copyright = "ARR"
-      menuMore = "Show more"
-      readMore = "Read more"
-      readOtherPosts = "Read other posts"
-      newerPosts = "Newer posts"
-      olderPosts = "Older posts"
-      missingContentMessage = "Page not found..."
-      missingBackButtonLabel = "Back to home page"
-      minuteReadingTime = "min read"
-      words = "words"
+    [languages.en.params.logo]
+      logoText = "re-Terminal"
+      logoHomeLink = "/"
 
-      [languages.en.params.logo]
-        logoText = "Die Weld und ich"
-        logoHomeLink = "https://blog.dreamlifeproduction.de/"
-
-      [languages.en.menu]
-        [[languages.en.menu.main]]
-          identifier = "about"
-          name = "About"
-          url = "/about"
-        [[languages.en.menu.main]]
-          identifier = "showcase"
-          name = "Showcase"
-          url = "/showcase"
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "showcase"
+        name = "Showcase"
+        url = "/showcase"
