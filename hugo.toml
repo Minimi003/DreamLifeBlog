@@ -56,7 +56,7 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "Minimi003's Blog"
 
     [languages.en.params]
       subtitle = "Die Welt und ich ein Blog von Minimi003"
