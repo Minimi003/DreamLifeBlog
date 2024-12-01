@@ -2,22 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://blog.dreamlifeproduction.de/tags/blog/</loc>
     <lastmod>2024-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/blog/</loc>
+    <loc>https://blog.dreamlifeproduction.de/posts/</loc>
     <lastmod>2024-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://blog.dreamlifeproduction.de/tags/</loc>
     <lastmod>2024-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://blog.dreamlifeproduction.de/</loc>
     <lastmod>2024-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/test/</loc>
+    <loc>https://blog.dreamlifeproduction.de/posts/test/</loc>
     <lastmod>2024-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/was-ist-mit-der-welt-los/</loc>
+    <loc>https://blog.dreamlifeproduction.de/posts/was-ist-mit-der-welt-los/</loc>
     <lastmod>2024-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.dreamlifeproduction.de/categories/</loc>
   </url>
 </urlset>

@@ -1,26 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>/</link>
-    <description>Recent content on </description>
-    <generator>Hugo</generator>
+    <title>Terminal</title>
+    <link>https://blog.dreamlifeproduction.de/</link>
+    <description>Recent content on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.dreamlifeproduction.de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>/posts/test/</link>
+      <link>https://blog.dreamlifeproduction.de/posts/test/</link>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/test/</guid>
-      <description>&lt;p&gt;TEstsdiuasdfhiujsdfhiuhasdhfiadgfhuasdgfuk!&lt;img src=&#34;/images/01236edfc4587e07938ace0c8d2c2dbd9a0da1ac39.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
+      
+      <guid>https://blog.dreamlifeproduction.de/posts/test/</guid>
+      <description>&lt;p&gt;TEstsdiuasdfhiujsdfhiuhasdhfiadgfhuasdgfuk!&lt;img alt=&#34;Image Description&#34; src=&#34;https://blog.dreamlifeproduction.de/images/01236edfc4587e07938ace0c8d2c2dbd9a0da1ac39.png&#34;&gt;&lt;/p&gt;</description>
+      <content>&lt;p&gt;TEstsdiuasdfhiujsdfhiuhasdhfiadgfhuasdgfuk!&lt;img alt=&#34;Image Description&#34; src=&#34;https://blog.dreamlifeproduction.de/images/01236edfc4587e07938ace0c8d2c2dbd9a0da1ac39.png&#34;&gt;&lt;/p&gt;
+</content>
     </item>
+    
     <item>
       <title>Was ist mit der Welt Los</title>
-      <link>/posts/was-ist-mit-der-welt-los/</link>
+      <link>https://blog.dreamlifeproduction.de/posts/was-ist-mit-der-welt-los/</link>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/was-ist-mit-der-welt-los/</guid>
-      <description>&lt;p&gt;Ich habe Letztens Dieses Bild auf Reddit gefunden und habe es als sehr Passend für die Momentanigen zeit empfunden&lt;/p&gt;&#xA;&lt;p&gt;!&lt;img src=&#34;/images/IMG_2948%201-1.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
+      
+      <guid>https://blog.dreamlifeproduction.de/posts/was-ist-mit-der-welt-los/</guid>
+      <description>&lt;p&gt;Ich habe Letztens Dieses Bild auf Reddit gefunden und habe es als sehr Passend für die Momentanigen zeit empfunden&lt;/p&gt;
+&lt;p&gt;!&lt;img alt=&#34;Image Description&#34; src=&#34;https://blog.dreamlifeproduction.de/images/IMG_2948%201-1.png&#34;&gt;&lt;/p&gt;</description>
+      <content>&lt;p&gt;Ich habe Letztens Dieses Bild auf Reddit gefunden und habe es als sehr Passend für die Momentanigen zeit empfunden&lt;/p&gt;
+&lt;p&gt;!&lt;img alt=&#34;Image Description&#34; src=&#34;https://blog.dreamlifeproduction.de/images/IMG_2948%201-1.png&#34;&gt;&lt;/p&gt;
+</content>
     </item>
+    
   </channel>
 </rss>
