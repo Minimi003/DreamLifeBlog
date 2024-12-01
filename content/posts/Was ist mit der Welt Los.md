@@ -1,5 +1,5 @@
 ---
-title: blogtitle
+title: Was ist mit der Welt Los
 date: 2024-11-06
 draft: false
 tags:
