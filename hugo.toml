@@ -59,10 +59,10 @@ paginate = 5
     title = "Terminal"
 
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
-      owner = ""
+      subtitle = "Die Welt und ich ein Blog von Minimi003"
+      owner = "Minimi003"
       keywords = ""
-      copyright = ""
+      copyright = "ARR"
       menuMore = "Show more"
       readMore = "Read more"
       readOtherPosts = "Read other posts"
@@ -74,8 +74,8 @@ paginate = 5
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Terminal"
-        logoHomeLink = "/"
+        logoText = "Die Weld und ich"
+        logoHomeLink = "https://blog.dreamlifeproduction.de/"
 
       [languages.en.menu]
         [[languages.en.menu.main]]
