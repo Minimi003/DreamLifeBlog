@@ -1,7 +1,7 @@
 ---
 title: Danke
 date: 2024-12-02
-draft: true
+draft: false
 tags:
   - Blog
 ---
