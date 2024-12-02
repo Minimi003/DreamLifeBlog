@@ -1,6 +1,6 @@
 ---
 title: Was ist mit der Weld los
-date: 2024-11-06
+date: 2024-12-02
 draft: false
 tags:
   - Blog
