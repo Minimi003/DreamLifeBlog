@@ -13,3 +13,4 @@ Es hat lange gedauert, bis ich diesen Blog zusammengebaut bekommen habe, aber je
 ## Mein Weg
 ___
 Aber mal ganz von vorne am 01.12.2024 bin ich beim Youtube 
+f

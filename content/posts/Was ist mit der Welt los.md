@@ -1,5 +1,5 @@
 ---
-title: Was ist mit der Weld los
+title: Was ist mit der Welt los
 date: 2024-12-02
 draft: false
 tags:
