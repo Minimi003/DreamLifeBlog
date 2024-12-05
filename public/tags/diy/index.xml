@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on </title>
-    <link>/tags/blog/</link>
-    <description>Recent content in Blog on </description>
+    <title>DIY on </title>
+    <link>/tags/diy/</link>
+    <description>Recent content in DIY on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/diy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Danke</title>
       <link>/posts/danke/</link>
@@ -28,19 +28,6 @@ Es hat lange gedauert, bis ich diesen Blog zusammengebaut bekommen habe, aber je
 &lt;hr&gt;
 &lt;p&gt;Aber mal ganz von vorn, am 01.12.2024 bin ich beim YouTube scrollen auf dieses &lt;a href=&#34;https://youtu.be/dnE7c0ELEH8?si=HyeUfE9D6hr__qHA&#34;&gt;Video&lt;/a&gt; gestoßen und habe mir gedacht, dass ich diesen Moment nutzen kann, um mir einen kleinen langzeitigen Wunsch zu erfüllen. Eine eigene Webseite.&lt;/p&gt;
 &lt;p&gt;Und die Idee von NetworkChuck habe ich als Anlass genutzt.&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Was ist mit der Welt los</title>
-      <link>/posts/was-ist-mit-der-welt-los/</link>
-      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/was-ist-mit-der-welt-los/</guid>
-      <description>&lt;p&gt;Ich habe letztens dieses Bild auf Reddit gefunden und habe es als sehr passend für die momentanen Zeit empfunden.&lt;/p&gt;
-&lt;p&gt;!&lt;img alt=&#34;Image Description&#34; src=&#34;/images/IMG_2948.png&#34;&gt;&lt;/p&gt;</description>
-      <content>&lt;p&gt;Ich habe letztens dieses Bild auf Reddit gefunden und habe es als sehr passend für die momentanen Zeit empfunden.&lt;/p&gt;
-&lt;p&gt;!&lt;img alt=&#34;Image Description&#34; src=&#34;/images/IMG_2948.png&#34;&gt;&lt;/p&gt;
 </content>
     </item>
     
