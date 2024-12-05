@@ -1,6 +1,6 @@
 ---
 title: Danke
-date: 2024-12-03
+date: 2024-12-05
 draft: false
 tags:
   - DIY
@@ -9,7 +9,7 @@ tags:
 ---
 ## Die Idee
 ___
-Die Idee für diesen Blog hatte ich von [NetworkChuck](https://www.youtube.com/@NetworkChuck). Ich habe gestern sein Video zu seinem Blogging-Workflow [hier ](https://youtu.be/dnE7c0ELEH8?si=HyeUfE9D6hr__qHA) gesehen.
+Die Idee für diesen Blog hatte ich von [NetworkChuck](https://www.youtube.com/@NetworkChuck). Ich habe gestern sein Video zu seinem Blogging-Workflow [hier](https://youtu.be/dnE7c0ELEH8?si=HyeUfE9D6hr__qHA) gesehen.
 Es hat lange gedauert, bis ich diesen Blog zusammengebaut bekommen habe, aber jetzt ist er endlich fertig. 
 ## Mein Weg
 ___
