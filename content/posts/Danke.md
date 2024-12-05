@@ -15,4 +15,4 @@ Es hat lange gedauert, bis ich diesen Blog zusammengebaut bekommen habe, aber je
 ___
 Aber mal ganz von vorn, am 01.12.2024 bin ich beim YouTube scrollen auf dieses [Video](https://youtu.be/dnE7c0ELEH8?si=HyeUfE9D6hr__qHA) gestoßen und habe mir gedacht, dass ich diesen Moment nutzen kann, um mir einen kleinen langzeitigen Wunsch zu erfüllen. Eine eigene Webseite.
 
-Und die Idee von NetworkChuck habe ich als Anlass genutzt.
+Und die Idee von NetworkChuck habe ich als Anlass genutzt, um diesen Blog zu erschaffen.
